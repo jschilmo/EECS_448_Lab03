@@ -1,0 +1,31 @@
+p.header{
+	background-color: black;
+	color: white;
+	font: 70px arial, sans-serif;
+	font-family: Impact, Charcoal, sans-serif
+}
+p.description{
+	margin-left: 420px;
+	margin-right: 420px; 
+	color: black;
+	font: 20px arial, sans-serif;
+}
+p.description:hover{
+	color: white;
+	background-color: black;
+}
+a.links{
+	align-content: center;
+	font: 24px arial, sans-serif;
+}
+a.links:hover{
+	align-content: center;
+	font: 24px arial, sans-serif;
+	color: white;
+	background-color: black;
+}
+body{
+	background-image: url("../img/Roadhog_portrait_m.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
